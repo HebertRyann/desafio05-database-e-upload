@@ -1,4 +1,4 @@
-# desafio05-database-e-upload
+# desafio05 Database e Upload
 
 Nesse desafio fizemos a nossa API do projeto passado ficar ainda mais completa, Implementamos um banco de dados usamos o Postgres. Para lidar com o banco de dados usamos TypeOrm como estrategia de abstração, também usamos Docker para criar ambientes isolados(contêineres) para facilitar a manutenção,também lidamos com encriptação de informações sensíveis usamos a lib Bcrypt,usamos o multer para o upload enquanto nossa aplicação ainda esta pequena.
 
